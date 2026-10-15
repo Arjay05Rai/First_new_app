@@ -1,5 +1,5 @@
-import 'package:first_app/dice_roller.dart';
-import 'package:first_app/text_widget.dart';
+import 'package:first_app_new/dice_roller.dart';
+import 'package:first_app_new/text_widget.dart';
 import 'package:flutter/material.dart';
 
 import 'dart:math';

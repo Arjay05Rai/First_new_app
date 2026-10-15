@@ -1,4 +1,4 @@
-import 'package:first_app/centered_widget.dart';
+import 'package:first_app_new/centered_widget.dart';
 import 'package:flutter/material.dart';
 
 class GradientContainer extends StatelessWidget {
